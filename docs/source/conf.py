@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'limro-bot'
+copyright = '2024, Limro Studios'
+author = 'Limro Studios'
 
 release = '0.1'
 version = '0.1.0'
